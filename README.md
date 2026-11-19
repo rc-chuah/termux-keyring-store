@@ -78,6 +78,15 @@ let full_custom = Store::with_path_and_passphrase(
 )?;
 ```
 
+## Star History
+<a href="https://www.star-history.com/#rc-chuah/termux-keyring-store&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rc-chuah/termux-keyring-store&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rc-chuah/termux-keyring-store&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rc-chuah/termux-keyring-store&type=Date" />
+ </picture>
+</a>
+
 ## Storage Location
 
 - **Default path:** `$HOME/.local/share/komac/credentials.enc`
